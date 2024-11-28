@@ -1,9 +1,13 @@
 ![FISP](readme-resources/first-innings-banner.png)
 ![Dataset](https://img.shields.io/badge/Dataset-Shivam_Mitra-blue.svg) ![Python](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![sklearn](https://img.shields.io/badge/Library-sklearn-orange.svg)
 
+---
+
 ## Project Overview
 • Created a model that predicts the score (in terms of range) of IPL matches<br/>
 • Optimized Multiple-Linear, Decision Tree, Random Forest, and AdaBoost regression models using GridsearchCV
+
+---
 
 ## Resources Used
 • Packages: pandas, numpy, sklearn, matplotlib, seaborn<br/>
@@ -12,6 +16,7 @@
 ## Data Cleaning and Preprocessing
 • **Removing unwanted columns**<br/>
 • **Keeping only consistent teams**<br/>
+
 ![ct](readme-resources/consistent_teams.PNG)<br/>
 • **Removing the first 5 overs data in every match**<br/>
 • **Converting the column 'date' from string into datetime object**<br/>
@@ -24,15 +29,34 @@ Evaluation metric: Root Mean Squared Error (RMSE)<br/>
 • Random Forest - 18.171<br/>
 • **Adaptive Boosting (AdaBoost) - 15.798**
 
+
 ## Model Prediction
 ![pred](readme-resources/prediction.PNG)<br/>
+
+---
 
 ## Future Scope
 • Add columns in dataset of top batsmen and bowlers of all the teams.<br/>
 • Add columns that consists of striker and non-striker's strike rates.<br/>
 • Implement this problem statement using Artificial Neural Network (ANN).<br/>
 
+---
+
 ## Deployed Web App
 If you want to view the deployed model, then follow  the links mentioned below:<br/>
 • GitHub: _https://github.com/vijaykumarr1452/IPL-First-Innings-Score-Prediction-Deployment_<br/>
+
+---
+
+## Connect
+
+If you have any questions or suggestions, feel free to reach out to me:
+
+- Email: [vijaykumarit45@gmail.com](mailto:vijaykumarit45@gmail.com)
+- GitHub: [Profile](https://github.com/vijaykumarr1452)
+- Linkedin: [Linkedin](https://www.linkedin.com/in/rachuri-vijaykumar/)
+- Twitter: [Twitter](https://x.com/vijay_viju1)
+
+
+---
 
