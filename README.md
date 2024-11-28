@@ -5,9 +5,6 @@
 • Created a model that predicts the score (in terms of range) of IPL matches<br/>
 • Optimized Multiple-Linear, Decision Tree, Random Forest, and AdaBoost regression models using GridsearchCV
 
-## How will this project help?
-• This project is for the fantasy cricket fans out there, helping them to earn extra fantasy points for Dream11 IPL 2020
-
 ## Resources Used
 • Packages: pandas, numpy, sklearn, matplotlib, seaborn<br/>
 • Dataset by **Shivam Mitra**: https://github.com/codophobia/CricketScorePredictor
