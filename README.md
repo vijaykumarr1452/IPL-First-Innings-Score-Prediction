@@ -37,5 +37,5 @@ Evaluation metric: Root Mean Squared Error (RMSE)<br/>
 
 ## Deployed Web App
 If you want to view the deployed model, then follow  the links mentioned below:<br/>
-• GitHub: _https://github.com/anujvyas/IPL-First-Innings-Score-Prediction-Deployment_<br/>
-• Web App: _https://ipl-first-innings-score.herokuapp.com/_
+• GitHub: _https://github.com/vijaykumarr1452/IPL-First-Innings-Score-Prediction-Deployment_<br/>
+
